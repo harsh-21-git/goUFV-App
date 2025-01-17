@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/4968591c-2f27-430d-9bc6-c86160c29a57)
 # goUFV App - Ideation Jam Project
 
 The **goUFV** app was conceived during a two-day hackathon as part of the Ideation Jam Project. Our goal was to come up with an innovative and user-friendly app idea for the University of the Fraser Valley (UFV). The app aims to integrate essential features to improve campus life, communication, and academic management for students and faculty members. 
